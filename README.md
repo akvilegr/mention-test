@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Mention Test App
+
+Provide the appropriate data in the apiData.json file before running the project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
